@@ -1,0 +1,1 @@
+"use strict";requirejs.config({baseUrl:"/assets/js"});
