@@ -1,0 +1,1 @@
+define(["require","exports"],function(e,o){"use strict";function n(){for(var e=[],o=0;o<arguments.length;o++)e[o]=arguments[o];console.log(arguments)}Object.defineProperty(o,"__esModule",{value:!0}),o.animatedScroll=void 0,o.animatedScroll=n});

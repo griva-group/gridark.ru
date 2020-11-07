@@ -1,1 +1,2 @@
-declare let buttonElem: HTMLElement | null;
+declare let scrollToTopBtnElem: HTMLElement | null;
+declare function scrollToTopBtnSwitch(): void;
