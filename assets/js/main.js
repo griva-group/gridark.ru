@@ -1,1 +1,1 @@
-"use strict";requirejs.config({baseUrl:"/assets/js"});
+"use strict";requirejs.config({baseUrl:"/assets/js"});var buttonElem=document.querySelector(".scroll-to-top");null!==buttonElem&&(window.addEventListener("scroll",function(){null!==buttonElem&&(window.pageYOffset||50<=document.documentElement.scrollTop?(buttonElem.style.display="block",buttonElem.style.opacity="1"):(buttonElem.style.display="none",buttonElem.style.opacity="0"))}),buttonElem.addEventListener("click",function(){window.scrollTo({top:0,behavior:"smooth"})})),console.log("test");
